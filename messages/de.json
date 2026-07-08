@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "title": "Jannik Conrady Consulting — Vermögen. Meisterhaft strukturiert.",
+    "description": "Allfinanz, Asset Protection, Kapitalmanagement und Vermögensaufbau aus einer Hand. Ehrlich, maßgeschneidert und auf Augenhöhe — Jannik Conrady Consulting."
+  },
+  "nav": {
+    "expertise": "Kerngebiete",
+    "network": "Netzwerk",
+    "about": "Über mich",
+    "testimonials": "Stimmen",
+    "memos": "Memos",
+    "contact": "Kontakt",
+    "cta": "Gespräch vereinbaren",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen",
+    "overview": "Übersicht"
+  },
+  "hero": {
+    "kicker": "Jannik Conrady Consulting",
+    "title": "Vermögen. Meisterhaft strukturiert.",
+    "subtitle": "Allfinanz, Asset Protection und Vermögensaufbau aus einer Hand — ehrlich, maßgeschneidert und auf Augenhöhe.",
+    "ctaPrimary": "Gespräch vereinbaren",
+    "ctaSecondary": "Kerngebiete entdecken",
+    "imageAlt": "Jannik Conrady, Gründer von Jannik Conrady Consulting"
+  },
+  "promise": {
+    "kicker": "Mein Versprechen",
+    "statement": "Strategischer Partner. Nicht für heute — für immer.",
+    "support": "Wer mit mir arbeitet, wird ehrlich, maßgeschneidert und auf Augenhöhe beraten. Jede Empfehlung folgt einem einzigen Maßstab: dem, was für Sie langfristig richtig ist."
+  },
+  "expertise": {
+    "kicker": "Kerngebiete",
+    "title": "Wo ich Verantwortung übernehme.",
+    "intro": "Sechs Disziplinen, ein Anspruch: Ihre finanzielle Architektur so zu ordnen, dass sie Generationen trägt.",
+    "viewAllLabel": "Alle Kerngebiete entdecken",
+    "backLabel": "Zurück zu Kerngebiete",
+    "bulletsTitle": "Im Überblick",
+    "items": [
+      {
+        "slug": "allfinanz",
+        "title": "Allfinanz",
+        "description": "Immobilien, Finanzierungen, Versicherungen und Geldanlage — ganzheitlich gedacht, sauber aufeinander abgestimmt und laufend betreut.",
+        "bullets": [
+          "Finanzierungsstrukturen für Immobilien und Kapitalanlagen",
+          "Versicherungsportfolio-Analyse und -Optimierung",
+          "Geldanlage abgestimmt auf Risikoprofil und Lebensphase",
+          "Laufende Betreuung statt einmaligem Abschluss"
+        ],
+        "body": "Ich bringe alle Bausteine in ein Bild — damit Entscheidungen nicht isoliert, sondern im Zusammenhang getroffen werden."
+      },
+      {
+        "slug": "asset-protection",
+        "title": "Asset Protection & Firmenstrukturen",
+        "description": "Vermögensschutz durch intelligente Strukturen: international mit einer Steuerlast von bis zu 0 %, in Deutschland mit einer auf bis zu 15 % gesenkten Einkommensteuer.",
+        "bullets": [
+          "Internationale Strukturen mit Steuerlast von bis zu 0 %",
+          "Deutsche Strukturen mit auf bis zu 15 % gesenkter Einkommensteuer",
+          "Rechtssichere Trennung von Privat- und Betriebsvermögen",
+          "Diskrete, individuell geplante Umsetzung"
+        ],
+        "body": "Jede Struktur wird individuell geplant und rechtlich sauber umgesetzt — diskret und auf Ihre Situation zugeschnitten."
+      },
+      {
+        "slug": "kapitalmanagement",
+        "title": "Aktives Kapitalmanagement",
+        "description": "Vollautomatisierte Handelsstrategien am Aktien- und Währungsmarkt — mit Zielrenditen von 12 % bis 30 % netto pro Jahr.",
+        "bullets": [
+          "Vollautomatisierte Handelsstrategien am Aktien- und Währungsmarkt",
+          "Zielrenditen von 12 % bis 30 % netto p.a.",
+          "Transparentes Risikomanagement durch definierte Regeln",
+          "Laufendes Monitoring und Anpassung der Strategien"
+        ],
+        "body": "Regeln statt Bauchgefühl: Die Strategie folgt einem festen System, nicht der Tagesstimmung der Märkte."
+      },
+      {
+        "slug": "vorsorge",
+        "title": "Vorsorge & Vererben",
+        "description": "Klare Exit-Strategie und Altersvorsorge. Handlungsfähigkeit durch Vollmacht, medizinische Selbstbestimmung per Patientenverfügung, finanzielle Stabilität im Pflegefall und rechtssichere Nachlassregelung.",
+        "bullets": [
+          "Klare Exit-Strategie und Altersvorsorgeplanung",
+          "Vollmacht für Handlungsfähigkeit im Ernstfall",
+          "Patientenverfügung für medizinische Selbstbestimmung",
+          "Rechtssichere Nachlassregelung durch das Testament"
+        ],
+        "body": "So bleibt Handlungsfähigkeit erhalten — für Sie und für die, die nach Ihnen kommen."
+      },
+      {
+        "slug": "risikomanagement",
+        "title": "Risikomanagement",
+        "description": "Krankenversicherung, Berufsunfähigkeit, Pflege und Todesfallschutz — und alles rund um Haus & Hof. Damit das Fundament hält, bevor gebaut wird.",
+        "bullets": [
+          "Krankenversicherung passend zu Lebenssituation und Budget",
+          "Absicherung von Berufsunfähigkeit und Pflegefall",
+          "Todesfallschutz zur Absicherung der Familie",
+          "Sach- und Gebäudeversicherung rund um Haus & Hof"
+        ],
+        "body": "Bevor wir über Rendite sprechen, sichern wir das Fundament ab, auf dem alles andere steht."
+      },
+      {
+        "slug": "vermoegensaufbau",
+        "title": "Klassischer Vermögensaufbau",
+        "description": "Internationale (Fonds-)Portfolios, Kapitalanlage-Immobilien samt Finanzierung, Start-ups, Pre-IPOs, geschlossene Beteiligungen, Edelmetalle, Seltene Erden, Diamanten und Kunst.",
+        "bullets": [
+          "Internationale (Fonds-)Portfolios",
+          "Kapitalanlage-Immobilien inklusive Finanzierung",
+          "Start-ups, Pre-IPOs und geschlossene Beteiligungen",
+          "Edelmetalle, Seltene Erden, Diamanten und Kunst"
+        ],
+        "body": "Substanzwerte und Wachstumschancen im Gleichgewicht — für einen Vermögensaufbau, der Generationen überdauert."
+      }
+    ]
+  },
+  "network": {
+    "kicker": "Netzwerk",
+    "title": "Zugang zu meinem Investment-Netzwerk.",
+    "intro": "Über mein Netzwerk aus institutionellen Partnern, Vermögensverwaltern und spezialisierten Anbietern öffne ich Zugänge, die im klassischen Bankgeschäft selten zu finden sind — von maßgeschneiderten Portfolios bis zu realen Werten.",
+    "viewAllLabel": "Alle Netzwerk-Themen entdecken",
+    "backLabel": "Zurück zum Netzwerk",
+    "bulletsTitle": "Im Überblick",
+    "items": [
+      {
+        "slug": "portfolio-solutions",
+        "title": "Individuell maßgeschneiderte Portfoliolösungen",
+        "description": "Portfolios, die exakt auf Ihre Ziele, Ihren Risikoappetit und Ihren Zeithorizont zugeschnitten sind — kuratiert über mein Netzwerk institutioneller Partner.",
+        "bullets": [
+          "Individuelle Allokation statt Standardlösung",
+          "Zugang zu institutionellen Partnern und Vermögensverwaltern",
+          "Laufende Überprüfung und Anpassung",
+          "Volle Transparenz über Kosten und Struktur"
+        ],
+        "body": "Kein Produkt von der Stange — sondern eine Struktur, die zu Ihrem Leben passt."
+      },
+      {
+        "slug": "forex-trading",
+        "title": "Algorithmischer Devisenhandel",
+        "description": "Regelbasierte, vollautomatisierte Handelssysteme am Devisenmarkt — entwickelt, um Emotionen aus der Entscheidung zu nehmen.",
+        "bullets": [
+          "Vollautomatisierte, regelbasierte Strategien",
+          "Handel rund um die Uhr an globalen Devisenmärkten",
+          "Definiertes Risikomanagement je Position",
+          "Laufendes Reporting über Performance und Risiko"
+        ],
+        "body": "Die Strategie handelt nach klaren Regeln — unabhängig von Emotionen und Tagesform."
+      },
+      {
+        "slug": "copy-trading",
+        "title": "Copy Trading",
+        "description": "Direkte Teilhabe an den Strategien erfahrener Trader — automatisiert repliziert, ohne selbst aktiv handeln zu müssen.",
+        "bullets": [
+          "Automatische Replikation geprüfter Handelsstrategien",
+          "Auswahl nach Risikoprofil und Erfolgshistorie",
+          "Volle Kontrolle über Kapitaleinsatz und Stop-Grenzen",
+          "Keine eigene Handelserfahrung erforderlich"
+        ],
+        "body": "Sie profitieren von der Erfahrung anderer, ohne selbst täglich am Markt aktiv sein zu müssen."
+      },
+      {
+        "slug": "private-equity",
+        "title": "Private Equity",
+        "description": "Zugang zu ausgewählten Beteiligungen abseits der Börse — von Start-ups bis zu etablierten Unternehmen im Wachstum.",
+        "bullets": [
+          "Geschlossene Beteiligungen und Co-Investments",
+          "Zugang zu Start-ups und Pre-IPO-Runden",
+          "Sorgfältige Due Diligence vor jeder Empfehlung",
+          "Langfristiger Anlagehorizont mit klarer Exit-Perspektive"
+        ],
+        "body": "Zugang zu Chancen, die institutionellen Investoren vorbehalten sind — sorgfältig geprüft, bevor sie empfohlen werden."
+      },
+      {
+        "slug": "real-estate",
+        "title": "Immobilien",
+        "description": "Kapitalanlageimmobilien im In- und Ausland — von der Objektauswahl bis zur Finanzierung aus einer Hand.",
+        "bullets": [
+          "Objektauswahl nach Lage, Rendite und Substanz",
+          "Strukturierte Finanzierungskonzepte",
+          "Nationale und internationale Standorte",
+          "Laufende Verwaltung und Bewirtschaftung auf Wunsch"
+        ],
+        "body": "Von der ersten Analyse bis zur Finanzierung — Immobilieninvestments aus einer Hand."
+      },
+      {
+        "slug": "commodities",
+        "title": "Edelmetalle & Rohstoffe",
+        "description": "Physische Edelmetalle, Seltene Erden und weitere Rohstoffe als Fundament realer Werte im Portfolio.",
+        "bullets": [
+          "Physisches Gold, Silber und weitere Edelmetalle",
+          "Zugang zu Seltenen Erden und strategischen Rohstoffen",
+          "Sichere Verwahrung und Lieferoptionen",
+          "Diversifikation abseits klassischer Kapitalmärkte"
+        ],
+        "body": "Reale Werte als Anker im Portfolio — unabhängig von Zins- und Aktienzyklen."
+      }
+    ]
+  },
+  "about": {
+    "kicker": "Über mich",
+    "title": "Beratung mit Haltung.",
+    "p1": "Familien, Unternehmer und Privatpersonen wenden sich an mich, wenn sie eine ehrliche, wertebasierte Begleitung für ihre finanziellen Entscheidungen suchen — über Lebensphasen, Unternehmen und Generationen hinweg.",
+    "p2": "Mein fachliches Fundament liegt in Wirtschaft und Finanzen. Die entscheidenden Lektionen aber stammen aus der Praxis: eigenes Kapital, eingesetzt mit der Disziplin erstklassiger Investoren und Unternehmer.",
+    "teaser": "Familien, Unternehmer und Privatpersonen wenden sich an mich, wenn sie eine ehrliche, wertebasierte Begleitung für ihre finanziellen Entscheidungen suchen.",
+    "ctaLabel": "Mehr über mich",
+    "valuesTitle": "Woran ich mich messen lasse",
+    "values": [
+      "Das Gegenüber zuerst wahrhaftig verstehen.",
+      "Win-win — oder kein Geschäft.",
+      "Bedingungslose Wertschätzung schenken.",
+      "Aus jeder Situation lernen.",
+      "Mit Integrität leben."
+    ],
+    "portraitAlt": "Porträt von Jannik Conrady"
+  },
+  "quote": {
+    "text": "Ich trage dazu bei, dass die Welt zu einem besseren Ort wird. Ich begegne jedem Menschen mit Respekt, Verständnis und Liebe — und handle nach meinen inneren Werten und Prinzipien.",
+    "attribution": "Jannik Conrady"
+  },
+  "testimonials": {
+    "kicker": "Stimmen",
+    "title": "Was Klienten berichten.",
+    "intro": "Alle Feedbacks stammen von echten Kunden und wurden in keiner Form kompensiert.",
+    "googleCta": "Alle Rezensionen auf Google",
+    "viewAllLabel": "Alle Stimmen lesen",
+    "prev": "Vorherige Stimme",
+    "next": "Nächste Stimme",
+    "items": [
+      {
+        "quote": "Einfach top! Die beste Kundenberatung, die man sich vorstellen kann — die vertrauenswürdige rechte Hand. Er arbeitet mit viel Feingefühl für das beste individuelle Ergebnis. Wer eine Finanzberatung sucht, deren Ziel es ist zu finden, was der Kunde braucht, ist bei Jannik goldrichtig.",
+        "author": "Matteo H."
+      },
+      {
+        "quote": "Es ist sehr angenehm, sich mit Jannik auszutauschen, und ich kann eine Zusammenarbeit mit ihm wärmstens empfehlen. Jedes Treffen ist wirklich ein Austausch, und ich fühle mich danach bereichert, ermutigt und beschwingt. Ich schätze die Art, wie er seine Welt der Finanzinstrumente erklärt: in einfachen Worten, mit viel Ruhe, Geduld und Muße.",
+        "author": "Lena B."
+      },
+      {
+        "quote": "Ich kann gar nicht genug betonen, wie dankbar ich für die Zusammenarbeit mit ihm bin. Seine Kompetenz und Erfahrung in den Bereichen Finanzen, Karriere und Beratung sind beeindruckend. Vielen Dank, Jannik, du rockst einfach!",
+        "author": "Nils H."
+      },
+      {
+        "quote": "Jannik hat mir leicht verständlich Finanzoptionen aufgezeigt. Er ist sehr transparent und hat seine Beratung auf meine familiäre Situation zugeschnitten. Sehr empfehlenswert!",
+        "author": "Supanuch P."
+      },
+      {
+        "quote": "Jannik überzeugt durch seine offene, ehrliche und auf die Situation zugeschnittene Beratung. Er bietet eine breit gefächerte Produktauswahl, begleitet von professionellem Rat. Für jede Sitzung ist er hervorragend vorbereitet — gleichzeitig flexibel und offen für jegliche Fragen.",
+        "author": "Lana O."
+      },
+      {
+        "quote": "Jannik hat einen wirklich sehr schönen ganzheitlichen Ansatz und ist immer da, egal um welches Thema es sich handelt. Er versteht es, flexibel an dem zu arbeiten, was gerade wichtig ist.",
+        "author": "Johanna P."
+      },
+      {
+        "quote": "Finanzberatung von Jannik heißt für mich, mich mit allen wichtigen Lebensthemen zeigen zu können und gesehen zu werden.",
+        "author": "Klara S."
+      },
+      {
+        "quote": "Ich wurde zuvor von drei verschiedenen Beratern kontaktiert, und Jannik war der Erste, der mich überzeugt hat. Der Unterschied? Jeder möchte sein Produkt verkaufen — Jannik hingegen bietet maßgeschneiderte Lösungen an, die den Bedürfnissen jedes einzelnen Kunden entsprechen: transparent und ehrlich.",
+        "author": "Elissa B. K."
+      }
+    ]
+  },
+  "memos": {
+    "kicker": "Memos an Klienten",
+    "title": "Gedanken, die bleiben.",
+    "intro": "In unregelmäßigen Abständen schreibe ich meinen Klienten über Investoren, Strategien und Entwicklungen, die mich beschäftigen.",
+    "download": "PDF",
+    "viewAllLabel": "Alle Memos ansehen",
+    "items": [
+      {
+        "date": "10. April 2026",
+        "title": "Sir John Templeton — Ein Porträt",
+        "description": "Über den Pionier des globalen Investierens und die Demut, die großen Renditen vorausgeht.",
+        "links": [
+          { "label": "Deutsch", "file": "/memos/sir-john-templeton-de.pdf" },
+          { "label": "English", "file": "/memos/sir-john-templeton-en.pdf" }
+        ]
+      },
+      {
+        "date": "26. März 2026",
+        "title": "„You gotta hit the right ball“ — Hyundai",
+        "description": "Warum Timing und Auswahl über den Erfolg einer Position entscheiden.",
+        "links": [
+          { "label": "Deutsch", "file": "/memos/hyundai-right-ball.pdf" }
+        ]
+      },
+      {
+        "date": "12. Oktober 2024",
+        "title": "First Mover",
+        "description": "Über den Vorsprung derer, die zuerst handeln — und seinen Preis.",
+        "links": [
+          { "label": "Deutsch", "file": "/memos/first-mover-de.pdf" },
+          { "label": "English", "file": "/memos/first-mover-en.pdf" }
+        ]
+      },
+      {
+        "date": "22. September 2024",
+        "title": "Saudi-Arabien und Erneuerbare Energien",
+        "description": "Ein Blick auf den Umbau einer Ölnation — und was Anleger daraus lernen können.",
+        "links": [
+          { "label": "Deutsch", "file": "/memos/erneuerbare-energien-de.pdf" },
+          { "label": "English", "file": "/memos/renewable-energy-en.pdf" }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "Kontakt",
+    "title": "Lassen Sie uns sprechen.",
+    "text": "Ob erste Orientierung oder konkretes Anliegen — ich antworte persönlich. Wenn Sie eine Empfehlung hierher geführt hat, nennen Sie sie gern.",
+    "homeTitle": "Lassen Sie uns sprechen.",
+    "homeText": "Ob erste Orientierung oder konkretes Anliegen — ich antworte persönlich.",
+    "ctaLabel": "Kontakt aufnehmen",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "linkedinLabel": "LinkedIn",
+    "imageAlt": "Jannik Conrady im Gespräch"
+  },
+  "footer": {
+    "claim": "Strategischer Partner. Nicht für heute — für immer.",
+    "navTitle": "Navigation",
+    "legalTitle": "Rechtliches",
+    "contactTitle": "Kontakt",
+    "disclaimer": "Alle auf dieser Website aufgeführten Feedbacks stammen von echten Kunden und wurden in keiner Form kompensiert. Erfolge und Ergebnisse können nicht garantiert werden; jede Anlageentscheidung trägt Risiken. Diese Website steht in keiner Verbindung zu Facebook Inc. und ist kein Teil der Facebook-Website.",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "imprint": {
+    "title": "Impressum",
+    "sections": [
+      {
+        "heading": "Angaben gemäß § 5 TMG",
+        "body": "Jannik Conrady Consulting\nSommerweg 91\n26209 Hatten\nDeutschland"
+      },
+      {
+        "heading": "Vertreten durch",
+        "body": "Jannik Conrady"
+      },
+      {
+        "heading": "Kontakt",
+        "body": "Telefon: +49 171 2107006\nE-Mail: jannik@jannikconrady.com"
+      },
+      {
+        "heading": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV",
+        "body": "Jannik Conrady\nSommerweg 91\n26209 Hatten"
+      },
+      {
+        "heading": "Haftung für Inhalte",
+        "body": "Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Die Inhalte stellen keine Anlage-, Steuer- oder Rechtsberatung dar; eine individuelle Beratung ersetzt sie nicht."
+      },
+      {
+        "heading": "Haftung für Links",
+        "body": "Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für diese fremden Inhalte ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "sections": [
+      {
+        "heading": "Verantwortlicher",
+        "body": "Verantwortlich für die Verarbeitung personenbezogener Daten auf dieser Website ist:\nJannik Conrady Consulting, Jannik Conrady, Sommerweg 91, 26209 Hatten, Deutschland.\nE-Mail: jannik@jannikconrady.com, Telefon: +49 171 2107006."
+      },
+      {
+        "heading": "Erhebung und Verarbeitung von Daten",
+        "body": "Beim Besuch dieser Website werden durch den Hosting-Anbieter automatisch technische Zugriffsdaten (sogenannte Server-Logfiles, z. B. IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seite, Browsertyp) verarbeitet. Diese Daten dienen ausschließlich der Sicherstellung eines störungsfreien Betriebs und der Verbesserung des Angebots (Art. 6 Abs. 1 lit. f DSGVO) und werden nicht mit anderen Datenquellen zusammengeführt."
+      },
+      {
+        "heading": "Kontaktaufnahme",
+        "body": "Wenn Sie per E-Mail oder Telefon Kontakt aufnehmen, werden Ihre Angaben zur Bearbeitung der Anfrage und für mögliche Anschlussfragen gespeichert (Art. 6 Abs. 1 lit. b DSGVO). Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben und gelöscht, sobald sie für die Bearbeitung nicht mehr erforderlich sind und keine gesetzlichen Aufbewahrungspflichten bestehen."
+      },
+      {
+        "heading": "Cookies und Tracking",
+        "body": "Diese Website verwendet keine Tracking- oder Analyse-Tools und setzt keine Cookies zu Marketingzwecken. Es werden ausschließlich technisch notwendige Funktionen verwendet (z. B. die Speicherung Ihrer Sprachauswahl)."
+      },
+      {
+        "heading": "Externe Links",
+        "body": "Diese Website verlinkt auf externe Angebote (z. B. LinkedIn, Google). Beim Aufruf dieser Links gelten die Datenschutzbestimmungen der jeweiligen Anbieter."
+      },
+      {
+        "heading": "Ihre Rechte",
+        "body": "Sie haben im Rahmen der gesetzlichen Bestimmungen das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit sowie Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten. Zudem steht Ihnen ein Beschwerderecht bei der zuständigen Datenschutzaufsichtsbehörde zu. Wenden Sie sich hierzu an jannik@jannikconrady.com."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Die angeforderte Seite existiert nicht oder wurde verschoben.",
+    "back": "Zur Startseite"
+  }
+}

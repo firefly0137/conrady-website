@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "title": "Jannik Conrady Consulting — Wealth. Masterfully structured.",
+    "description": "Comprehensive financial advisory, asset protection, capital management and wealth building from one hand. Honest, tailored and at eye level — Jannik Conrady Consulting."
+  },
+  "nav": {
+    "expertise": "Expertise",
+    "network": "Network",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "memos": "Memos",
+    "contact": "Contact",
+    "cta": "Schedule a conversation",
+    "imprint": "Imprint",
+    "privacy": "Privacy",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "overview": "Overview"
+  },
+  "hero": {
+    "kicker": "Jannik Conrady Consulting",
+    "title": "Wealth. Masterfully structured.",
+    "subtitle": "Comprehensive financial advisory, asset protection and wealth building from one hand — honest, tailored and at eye level.",
+    "ctaPrimary": "Schedule a conversation",
+    "ctaSecondary": "Explore expertise",
+    "imageAlt": "Jannik Conrady, founder of Jannik Conrady Consulting"
+  },
+  "promise": {
+    "kicker": "My Promise",
+    "statement": "A strategic partner. Not for today — for good.",
+    "support": "Those who work with me receive honest, tailored advice at eye level. Every recommendation follows a single standard: what is right for you in the long run."
+  },
+  "expertise": {
+    "kicker": "Expertise",
+    "title": "Where I take responsibility.",
+    "intro": "Six disciplines, one ambition: to order your financial architecture so it carries across generations.",
+    "viewAllLabel": "Explore all expertise",
+    "backLabel": "Back to expertise",
+    "bulletsTitle": "At a glance",
+    "items": [
+      {
+        "slug": "allfinanz",
+        "title": "Comprehensive Financial Advisory",
+        "description": "Real estate, financing, insurance and investments — considered holistically, carefully aligned and continuously managed.",
+        "bullets": [
+          "Financing structures for property and investments",
+          "Insurance portfolio analysis and optimisation",
+          "Investments aligned to risk profile and life stage",
+          "Ongoing guidance instead of a one-off sale"
+        ],
+        "body": "I bring every building block into one picture — so decisions are made in context, not in isolation."
+      },
+      {
+        "slug": "asset-protection",
+        "title": "Asset Protection & Corporate Structures",
+        "description": "Wealth protection through intelligent structures: internationally with a tax burden of down to 0%, in Germany with income tax reduced to as low as 15%.",
+        "bullets": [
+          "International structures with a tax burden of down to 0%",
+          "German structures with income tax reduced to as low as 15%",
+          "Legally sound separation of private and business assets",
+          "Discreet, individually planned implementation"
+        ],
+        "body": "Every structure is planned individually and implemented cleanly — discreet and tailored to your situation."
+      },
+      {
+        "slug": "kapitalmanagement",
+        "title": "Active Capital Management",
+        "description": "Fully automated trading strategies in equity and currency markets — with target returns of 12% to 30% net per year.",
+        "bullets": [
+          "Fully automated trading strategies in equity and currency markets",
+          "Target returns of 12% to 30% net per year",
+          "Transparent risk management through defined rules",
+          "Ongoing monitoring and adjustment of strategies"
+        ],
+        "body": "Rules instead of gut feeling: the strategy follows a fixed system, not the market's mood of the day."
+      },
+      {
+        "slug": "vorsorge",
+        "title": "Estate Planning & Provision",
+        "description": "A clear exit strategy and retirement planning. Capacity to act through powers of attorney, medical self-determination via living wills, financial stability in the event of care needs, and legally sound succession.",
+        "bullets": [
+          "A clear exit strategy and retirement planning",
+          "Power of attorney for capacity to act in an emergency",
+          "Living will for medical self-determination",
+          "Legally sound succession through a will"
+        ],
+        "body": "This preserves the capacity to act — for you, and for those who come after you."
+      },
+      {
+        "slug": "risikomanagement",
+        "title": "Risk Management",
+        "description": "Health insurance, occupational disability, long-term care and death benefit protection — plus everything around house and home. So the foundation holds before you build.",
+        "bullets": [
+          "Health insurance matched to life situation and budget",
+          "Protection against occupational disability and care needs",
+          "Death benefit protection to secure the family",
+          "Property and building insurance around house and home"
+        ],
+        "body": "Before we talk about returns, we secure the foundation everything else stands on."
+      },
+      {
+        "slug": "vermoegensaufbau",
+        "title": "Classic Wealth Building",
+        "description": "International (fund) portfolios, investment properties including financing, start-ups, pre-IPOs, closed-end participations, precious metals, rare earths, diamonds and art.",
+        "bullets": [
+          "International (fund) portfolios",
+          "Investment properties including financing",
+          "Start-ups, pre-IPOs and closed-end participations",
+          "Precious metals, rare earths, diamonds and art"
+        ],
+        "body": "Tangible value and growth potential in balance — for wealth that is built to outlast generations."
+      }
+    ]
+  },
+  "network": {
+    "kicker": "Network",
+    "title": "Access to my investment network.",
+    "intro": "Through my network of institutional partners, asset managers and specialised providers, I open access to opportunities rarely found through a conventional bank — from tailored portfolios to tangible assets.",
+    "viewAllLabel": "Explore the full network",
+    "backLabel": "Back to network",
+    "bulletsTitle": "At a glance",
+    "items": [
+      {
+        "slug": "portfolio-solutions",
+        "title": "Individually Tailored Portfolio Solutions",
+        "description": "Portfolios built precisely around your goals, your risk appetite and your time horizon — curated through my network of institutional partners.",
+        "bullets": [
+          "Individual allocation instead of a standard solution",
+          "Access to institutional partners and asset managers",
+          "Ongoing review and adjustment",
+          "Full transparency on cost and structure"
+        ],
+        "body": "Not an off-the-shelf product — a structure that fits your life."
+      },
+      {
+        "slug": "forex-trading",
+        "title": "Algorithmic Forex Trading",
+        "description": "Rules-based, fully automated trading systems in the currency markets — designed to remove emotion from the decision.",
+        "bullets": [
+          "Fully automated, rules-based strategies",
+          "Trading around the clock across global currency markets",
+          "Defined risk management per position",
+          "Ongoing reporting on performance and risk"
+        ],
+        "body": "The strategy trades by clear rules — independent of emotion and the mood of the day."
+      },
+      {
+        "slug": "copy-trading",
+        "title": "Copy Trading",
+        "description": "Direct participation in the strategies of experienced traders — automatically replicated, without having to trade actively yourself.",
+        "bullets": [
+          "Automatic replication of vetted trading strategies",
+          "Selection based on risk profile and track record",
+          "Full control over capital deployed and stop limits",
+          "No trading experience of your own required"
+        ],
+        "body": "You benefit from the experience of others, without having to be active in the market yourself every day."
+      },
+      {
+        "slug": "private-equity",
+        "title": "Private Equity",
+        "description": "Access to selected participations away from the public markets — from start-ups to established, growing companies.",
+        "bullets": [
+          "Closed-end participations and co-investments",
+          "Access to start-ups and pre-IPO rounds",
+          "Careful due diligence ahead of every recommendation",
+          "A long-term horizon with a clear exit perspective"
+        ],
+        "body": "Access to opportunities usually reserved for institutional investors — carefully vetted before they are recommended."
+      },
+      {
+        "slug": "real-estate",
+        "title": "Real Estate",
+        "description": "Investment properties at home and abroad — from property selection to financing, from one hand.",
+        "bullets": [
+          "Property selection based on location, yield and substance",
+          "Structured financing concepts",
+          "Domestic and international locations",
+          "Ongoing management on request"
+        ],
+        "body": "From the first analysis to financing — real estate investment from one hand."
+      },
+      {
+        "slug": "commodities",
+        "title": "Precious Metals & Commodities",
+        "description": "Physical precious metals, rare earths and other commodities as a foundation of tangible value in the portfolio.",
+        "bullets": [
+          "Physical gold, silver and other precious metals",
+          "Access to rare earths and strategic commodities",
+          "Secure storage and delivery options",
+          "Diversification away from conventional capital markets"
+        ],
+        "body": "Tangible assets as an anchor in the portfolio — independent of interest rate and equity cycles."
+      }
+    ]
+  },
+  "about": {
+    "kicker": "About",
+    "title": "Advice with principles.",
+    "p1": "Families, entrepreneurs and private individuals turn to me when they seek honest, values-based guidance for their financial decisions — across life stages, businesses and generations.",
+    "p2": "My professional foundation lies in business and finance. The decisive lessons, however, come from practice: my own capital, deployed with the discipline of first-class investors and operators.",
+    "teaser": "Families, entrepreneurs and private individuals turn to me when they seek honest, values-based guidance for their financial decisions.",
+    "ctaLabel": "More about me",
+    "valuesTitle": "What I hold myself to",
+    "values": [
+      "Truly understand the other person first.",
+      "Win-win — or no deal.",
+      "Give unconditional appreciation.",
+      "Learn from every situation.",
+      "Live with integrity."
+    ],
+    "portraitAlt": "Portrait of Jannik Conrady"
+  },
+  "quote": {
+    "text": "I contribute to making the world a better place. I meet every person with respect, understanding and love — and act in alignment with my inner values and principles.",
+    "attribution": "Jannik Conrady"
+  },
+  "testimonials": {
+    "kicker": "Testimonials",
+    "title": "What clients say.",
+    "intro": "All feedback comes from real clients and was not compensated in any form.",
+    "googleCta": "All reviews on Google",
+    "viewAllLabel": "Read all testimonials",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial",
+    "items": [
+      {
+        "quote": "Simply outstanding! The best client advisory you can imagine — a trusted right hand. He works with great sensitivity for the best individual result. Anyone looking for financial advice whose goal is to find what the client truly needs is exactly right with Jannik.",
+        "author": "Matteo H."
+      },
+      {
+        "quote": "Exchanging thoughts with Jannik is a pleasure, and I can warmly recommend working with him. Every meeting is a genuine dialogue, and I leave feeling enriched, encouraged and uplifted. I especially value the way he explains his world of financial instruments: in simple words, with calm, patience and care.",
+        "author": "Lena B."
+      },
+      {
+        "quote": "I cannot emphasize enough how grateful I am for working with him. His competence and experience in finance, career and advisory are impressive. Thank you, Jannik — you simply rock!",
+        "author": "Nils H."
+      },
+      {
+        "quote": "Jannik presented financial options to me in an easily understandable way. He is very transparent and tailored his advice to my family situation. Highly recommended!",
+        "author": "Supanuch P."
+      },
+      {
+        "quote": "Jannik convinces through open, honest advice tailored to the situation. He offers a broad selection of products, accompanied by professional counsel. He is excellently prepared for every session — while remaining flexible and open to any question.",
+        "author": "Lana O."
+      },
+      {
+        "quote": "Jannik has a truly beautiful, holistic approach and is always there, no matter the topic. He knows how to work flexibly on whatever matters most right now.",
+        "author": "Johanna P."
+      },
+      {
+        "quote": "Financial advice from Jannik means I can show up with all the important topics of my life and feel seen.",
+        "author": "Klara S."
+      },
+      {
+        "quote": "I had been contacted by three different advisors before, and Jannik was the first to convince me. The difference? Everyone wants to sell their product — Jannik instead offers tailored solutions that match each client's needs: transparent and honest.",
+        "author": "Elissa B. K."
+      }
+    ]
+  },
+  "memos": {
+    "kicker": "Client Memos",
+    "title": "Thoughts that last.",
+    "intro": "From time to time I write to my clients about investors, strategies and developments that occupy my mind.",
+    "download": "PDF",
+    "viewAllLabel": "View all memos",
+    "items": [
+      {
+        "date": "April 10, 2026",
+        "title": "Sir John Templeton — A Portrait",
+        "description": "On the pioneer of global investing and the humility that precedes great returns.",
+        "links": [
+          { "label": "English", "file": "/memos/sir-john-templeton-en.pdf" },
+          { "label": "Deutsch", "file": "/memos/sir-john-templeton-de.pdf" }
+        ]
+      },
+      {
+        "date": "March 26, 2026",
+        "title": "“You gotta hit the right ball” — Hyundai",
+        "description": "Why timing and selection decide the success of a position.",
+        "links": [
+          { "label": "Deutsch", "file": "/memos/hyundai-right-ball.pdf" }
+        ]
+      },
+      {
+        "date": "October 12, 2024",
+        "title": "First Mover",
+        "description": "On the advantage of those who act first — and its price.",
+        "links": [
+          { "label": "English", "file": "/memos/first-mover-en.pdf" },
+          { "label": "Deutsch", "file": "/memos/first-mover-de.pdf" }
+        ]
+      },
+      {
+        "date": "September 22, 2024",
+        "title": "Saudi Arabia and Renewable Energy",
+        "description": "A look at the transformation of an oil nation — and what investors can learn from it.",
+        "links": [
+          { "label": "English", "file": "/memos/renewable-energy-en.pdf" },
+          { "label": "Deutsch", "file": "/memos/erneuerbare-energien-de.pdf" }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Let's talk.",
+    "text": "Whether first orientation or a concrete matter — I respond personally. If a recommendation brought you here, feel free to mention it.",
+    "homeTitle": "Let's talk.",
+    "homeText": "Whether first orientation or a concrete matter — I respond personally.",
+    "ctaLabel": "Get in touch",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "linkedinLabel": "LinkedIn",
+    "imageAlt": "Jannik Conrady in conversation"
+  },
+  "footer": {
+    "claim": "A strategic partner. Not for today — for good.",
+    "navTitle": "Navigation",
+    "legalTitle": "Legal",
+    "contactTitle": "Contact",
+    "disclaimer": "All feedback presented on this website comes from real clients and was not compensated in any form. Success and results cannot be guaranteed; every investment decision carries risk. This site is not affiliated with Facebook Inc. and is not part of the Facebook website.",
+    "rights": "All rights reserved."
+  },
+  "imprint": {
+    "title": "Imprint",
+    "sections": [
+      {
+        "heading": "Information pursuant to § 5 TMG",
+        "body": "Jannik Conrady Consulting\nSommerweg 91\n26209 Hatten\nGermany"
+      },
+      {
+        "heading": "Represented by",
+        "body": "Jannik Conrady"
+      },
+      {
+        "heading": "Contact",
+        "body": "Phone: +49 171 2107006\nEmail: jannik@jannikconrady.com"
+      },
+      {
+        "heading": "Responsible for content pursuant to § 55 (2) RStV",
+        "body": "Jannik Conrady\nSommerweg 91\n26209 Hatten"
+      },
+      {
+        "heading": "Liability for content",
+        "body": "The contents of this website have been created with the greatest care. However, no guarantee can be given for the accuracy, completeness or timeliness of the content. The content does not constitute investment, tax or legal advice and does not replace individual consultation."
+      },
+      {
+        "heading": "Liability for links",
+        "body": "This website contains links to external third-party websites over whose content no influence exists. The respective provider or operator of the linked pages is always responsible for their content."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "heading": "Controller",
+        "body": "The controller responsible for the processing of personal data on this website is:\nJannik Conrady Consulting, Jannik Conrady, Sommerweg 91, 26209 Hatten, Germany.\nEmail: jannik@jannikconrady.com, Phone: +49 171 2107006."
+      },
+      {
+        "heading": "Collection and processing of data",
+        "body": "When visiting this website, the hosting provider automatically processes technical access data (so-called server log files, e.g. IP address, date and time of access, page accessed, browser type). This data serves exclusively to ensure trouble-free operation and to improve the offering (Art. 6 (1) (f) GDPR) and is not merged with other data sources."
+      },
+      {
+        "heading": "Contact",
+        "body": "If you contact us by email or phone, your details will be stored for the purpose of processing the enquiry and for possible follow-up questions (Art. 6 (1) (b) GDPR). This data will not be passed on without your consent and will be deleted as soon as it is no longer required for processing and no statutory retention obligations exist."
+      },
+      {
+        "heading": "Cookies and tracking",
+        "body": "This website does not use tracking or analytics tools and does not set cookies for marketing purposes. Only technically necessary functions are used (e.g. storing your language selection)."
+      },
+      {
+        "heading": "External links",
+        "body": "This website links to external services (e.g. LinkedIn, Google). When following these links, the privacy policies of the respective providers apply."
+      },
+      {
+        "heading": "Your rights",
+        "body": "Within the scope of the statutory provisions, you have the right to information, rectification, erasure, restriction of processing, data portability and objection to the processing of your personal data. You also have the right to lodge a complaint with the competent data protection supervisory authority. Please contact jannik@jannikconrady.com."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The requested page does not exist or has been moved.",
+    "back": "Back to home"
+  }
+}
