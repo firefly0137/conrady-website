@@ -21,19 +21,18 @@
     "kicker": "Jannik Conrady Consulting",
     "title": "Vermögen. Meisterhaft strukturiert.",
     "subtitle": "Allfinanz, Asset Protection und Vermögensaufbau aus einer Hand — ehrlich, maßgeschneidert und auf Augenhöhe.",
-    "ctaPrimary": "Gespräch vereinbaren",
     "ctaSecondary": "Kerngebiete entdecken",
     "imageAlt": "Jannik Conrady, Gründer von Jannik Conrady Consulting"
   },
   "promise": {
     "kicker": "Mein Versprechen",
     "statement": "Strategischer Partner. Nicht für heute — für immer.",
-    "support": "Wer mit mir arbeitet, wird ehrlich, maßgeschneidert und auf Augenhöhe beraten. Jede Empfehlung folgt einem einzigen Maßstab: dem, was für Sie langfristig richtig ist."
+    "support": "Wer mit mir arbeitet, braucht nie wieder einen anderen Berater."
   },
   "expertise": {
     "kicker": "Kerngebiete",
     "title": "Wo ich Verantwortung übernehme.",
-    "intro": "Sechs Disziplinen, ein Anspruch: Ihre finanzielle Architektur so zu ordnen, dass sie Generationen trägt.",
+    "intro": "Wer mit mir arbeitet, wird ehrlich, maßgeschneidert und auf Augenhöhe beraten. Jede Empfehlung folgt einem einzigen Maßstab: dem, was für Sie langfristig richtig ist und Ihre finanzielle Architektur so ordnet, dass sie Generationen trägt.",
     "viewAllLabel": "Alle Kerngebiete entdecken",
     "backLabel": "Zurück zu Kerngebiete",
     "bulletsTitle": "Im Überblick",
@@ -310,7 +309,6 @@
     "homeText": "Ob erste Orientierung oder konkretes Anliegen — ich antworte persönlich.",
     "ctaLabel": "Kontakt aufnehmen",
     "emailLabel": "E-Mail",
-    "phoneLabel": "Telefon",
     "linkedinLabel": "LinkedIn",
     "imageAlt": "Jannik Conrady im Gespräch"
   },

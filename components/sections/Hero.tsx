@@ -17,7 +17,7 @@ export default function Hero() {
           fill
           priority
           sizes="100vw"
-          className="object-cover object-[30%_top]"
+          className="object-cover object-[42%_top]"
         />
       </div>
 
@@ -32,6 +32,7 @@ export default function Hero() {
           className="object-cover object-[30%_top]"
         />
         <div className="absolute inset-0 bg-gradient-to-l from-[#d8d6d3]/90 via-[#d8d6d3]/40 to-transparent" />
+        <div className="absolute inset-x-0 top-0 h-20 bg-[#bebab6]" />
       </div>
 
       <div className="relative z-10 mx-auto w-full max-w-7xl px-6 pt-12 pb-20 lg:px-10 lg:pt-20">
@@ -45,12 +46,6 @@ export default function Hero() {
               {t('subtitle')}
             </p>
             <div className="mt-10 flex flex-wrap items-center gap-4">
-              <Link
-                href="/kontakt"
-                className="border border-navy-800 bg-navy-800 px-7 py-4 text-[0.74rem] font-semibold uppercase tracking-[0.18em] text-paper transition-colors hover:bg-transparent hover:text-navy-800"
-              >
-                {t('ctaPrimary')}
-              </Link>
               <Link
                 href="/kerngebiete"
                 className="group flex items-center gap-3 px-2 py-4 text-[0.74rem] font-semibold uppercase tracking-[0.18em] text-navy-800"

@@ -14,12 +14,6 @@ export default function Contact() {
       external: false,
     },
     {
-      label: t('phoneLabel'),
-      value: '+49 171 210 70 06',
-      href: 'tel:+491712107006',
-      external: false,
-    },
-    {
       label: t('linkedinLabel'),
       value: 'linkedin.com/in/jannik-conrady',
       href: 'https://www.linkedin.com/in/jannik-conrady',

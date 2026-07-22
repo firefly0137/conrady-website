@@ -21,19 +21,18 @@
     "kicker": "Jannik Conrady Consulting",
     "title": "Wealth. Masterfully structured.",
     "subtitle": "Comprehensive financial advisory, asset protection and wealth building from one hand — honest, tailored and at eye level.",
-    "ctaPrimary": "Schedule a conversation",
     "ctaSecondary": "Explore expertise",
     "imageAlt": "Jannik Conrady, founder of Jannik Conrady Consulting"
   },
   "promise": {
     "kicker": "My Promise",
     "statement": "A strategic partner. Not for today — for good.",
-    "support": "Those who work with me receive honest, tailored advice at eye level. Every recommendation follows a single standard: what is right for you in the long run."
+    "support": "Those who work with me will never need another advisor again."
   },
   "expertise": {
     "kicker": "Expertise",
     "title": "Where I take responsibility.",
-    "intro": "Six disciplines, one ambition: to order your financial architecture so it carries across generations.",
+    "intro": "Those who work with me receive honest, tailored advice at eye level. Every recommendation follows a single standard: what is right for you in the long run and orders your financial architecture so it carries across generations.",
     "viewAllLabel": "Explore all expertise",
     "backLabel": "Back to expertise",
     "bulletsTitle": "At a glance",
@@ -310,7 +309,6 @@
     "homeText": "Whether first orientation or a concrete matter — I respond personally.",
     "ctaLabel": "Get in touch",
     "emailLabel": "Email",
-    "phoneLabel": "Phone",
     "linkedinLabel": "LinkedIn",
     "imageAlt": "Jannik Conrady in conversation"
   },
