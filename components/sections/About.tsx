@@ -21,7 +21,7 @@ export default function About() {
               />
               <div className="relative aspect-[3/4] overflow-hidden">
                 <Image
-                  src="/images/jannikportrait.png"
+                  src="/images/jannikcontact.png"
                   alt={t('portraitAlt')}
                   fill
                   sizes="(max-width: 1024px) 100vw, 40vw"

@@ -9,7 +9,7 @@
     "testimonials": "Testimonials",
     "memos": "Memos",
     "contact": "Contact",
-    "cta": "Schedule a conversation",
+    "cta": "Get in touch",
     "imprint": "Imprint",
     "privacy": "Privacy",
     "menuOpen": "Open menu",
@@ -176,7 +176,7 @@
   },
   "memos": {
     "kicker": "Client Memos",
-    "title": "Thoughts that last.",
+    "title": "Thoughts on what moves me.",
     "intro": "From time to time I write to my clients about investors, strategies and developments that occupy my mind.",
     "download": "PDF",
     "viewAllLabel": "View all memos",

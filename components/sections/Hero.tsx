@@ -32,7 +32,7 @@ export default function Hero() {
           className="object-cover object-[30%_top]"
         />
         <div className="absolute inset-0 bg-gradient-to-l from-[#d8d6d3]/90 via-[#d8d6d3]/40 to-transparent" />
-        <div className="absolute inset-x-0 top-0 h-20 bg-[#bebab6]" />
+        <div className="absolute inset-x-0 top-0 h-20 bg-[#9d9893]" />
       </div>
 
       <div className="relative z-10 mx-auto w-full max-w-7xl px-6 pt-12 pb-20 lg:px-10 lg:pt-20">

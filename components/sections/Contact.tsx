@@ -72,7 +72,7 @@ export default function Contact() {
               />
               <div className="relative aspect-[4/5] overflow-hidden">
                 <Image
-                  src="/images/jannikcontact.png"
+                  src="/images/jannikportrait.png"
                   alt={t('imageAlt')}
                   fill
                   sizes="(max-width: 1024px) 100vw, 40vw"

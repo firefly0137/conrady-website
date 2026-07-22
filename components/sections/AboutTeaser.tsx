@@ -14,7 +14,7 @@ export default function AboutTeaser() {
           <Reveal className="lg:col-span-4">
             <div className="relative aspect-[3/4] max-w-sm overflow-hidden">
               <Image
-                src="/images/jannikportrait.png"
+                src="/images/jannikcontact.png"
                 alt={t('portraitAlt')}
                 fill
                 sizes="(max-width: 1024px) 60vw, 30vw"

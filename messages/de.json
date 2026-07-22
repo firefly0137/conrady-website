@@ -9,7 +9,7 @@
     "testimonials": "Stimmen",
     "memos": "Memos",
     "contact": "Kontakt",
-    "cta": "Gespräch vereinbaren",
+    "cta": "Kontakt aufnehmen",
     "imprint": "Impressum",
     "privacy": "Datenschutz",
     "menuOpen": "Menü öffnen",
@@ -134,7 +134,7 @@
   "testimonials": {
     "kicker": "Stimmen",
     "title": "Was Klienten berichten.",
-    "intro": "Alle Feedbacks stammen von echten Kunden und wurden in keiner Form kompensiert.",
+    "intro": "Alle Feedbacks stammen von echten Kunden und sind nicht vergütet.",
     "googleCta": "Alle Rezensionen auf Google",
     "viewAllLabel": "Alle Stimmen lesen",
     "prev": "Vorherige Stimme",
@@ -176,7 +176,7 @@
   },
   "memos": {
     "kicker": "Memos an Klienten",
-    "title": "Gedanken, die bleiben.",
+    "title": "Gedanken zu Themen, die mich bewegen.",
     "intro": "In unregelmäßigen Abständen schreibe ich meinen Klienten über Investoren, Strategien und Entwicklungen, die mich beschäftigen.",
     "download": "PDF",
     "viewAllLabel": "Alle Memos ansehen",
@@ -255,7 +255,7 @@
     "navTitle": "Navigation",
     "legalTitle": "Rechtliches",
     "contactTitle": "Kontakt",
-    "disclaimer": "Alle auf dieser Website aufgeführten Feedbacks stammen von echten Kunden und wurden in keiner Form kompensiert. Erfolge und Ergebnisse können nicht garantiert werden; jede Anlageentscheidung trägt Risiken. Diese Website steht in keiner Verbindung zu Facebook Inc. und ist kein Teil der Facebook-Website.",
+    "disclaimer": "Alle auf dieser Website aufgeführten Feedbacks stammen von echten Kunden und sind nicht vergütet. Erfolge und Ergebnisse können nicht garantiert werden; jede Anlageentscheidung trägt Risiken. Diese Website steht in keiner Verbindung zu Facebook Inc. und ist kein Teil der Facebook-Website.",
     "rights": "Alle Rechte vorbehalten."
   },
   "imprint": {
