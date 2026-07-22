@@ -23,15 +23,17 @@ export default function Hero() {
 
       {/* Desktop: full-bleed image with soft wash for type legibility */}
       <div className="absolute inset-0 hidden lg:block" aria-hidden>
-        <Image
-          src="/images/jannikhero.png"
-          alt=""
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover object-[30%_top]"
-        />
-        <div className="absolute inset-0 bg-gradient-to-l from-[#d8d6d3]/90 via-[#d8d6d3]/40 to-transparent" />
+        <div className="absolute inset-x-0 top-20 bottom-0">
+          <Image
+            src="/images/jannikhero.png"
+            alt=""
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover object-[30%_top]"
+          />
+          <div className="absolute inset-0 bg-gradient-to-l from-[#d8d6d3]/90 via-[#d8d6d3]/40 to-transparent" />
+        </div>
         <div className="absolute inset-x-0 top-0 h-20 bg-[#9d9893]" />
       </div>
 
