@@ -20,7 +20,6 @@ function ChevronDown({ className = '' }: { className?: string }) {
 export default function Header() {
   const t = useTranslations('nav');
   const tExpertise = useTranslations('expertise');
-  const tNetwork = useTranslations('network');
   const pathname = usePathname();
 
   const [scrolled, setScrolled] = useState(false);
@@ -32,14 +31,9 @@ export default function Header() {
     slug: i.slug,
     title: i.title,
   }));
-  const networkChildren = (tNetwork.raw('items') as Child[]).map((i) => ({
-    slug: i.slug,
-    title: i.title,
-  }));
 
   const groups: NavGroup[] = [
     { key: 'expertise', href: '/kerngebiete', children: expertiseChildren },
-    { key: 'network', href: '/netzwerk', children: networkChildren },
     { key: 'about', href: '/ueber-mich' },
     { key: 'testimonials', href: '/stimmen' },
     { key: 'memos', href: '/memos' },

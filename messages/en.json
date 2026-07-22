@@ -5,7 +5,6 @@
   },
   "nav": {
     "expertise": "Expertise",
-    "network": "Network",
     "about": "About",
     "testimonials": "Testimonials",
     "memos": "Memos",
@@ -111,88 +110,6 @@
       }
     ]
   },
-  "network": {
-    "kicker": "Network",
-    "title": "Access to my investment network.",
-    "intro": "Through my network of institutional partners, asset managers and specialised providers, I open access to opportunities rarely found through a conventional bank — from tailored portfolios to tangible assets.",
-    "viewAllLabel": "Explore the full network",
-    "backLabel": "Back to network",
-    "bulletsTitle": "At a glance",
-    "items": [
-      {
-        "slug": "portfolio-solutions",
-        "title": "Individually Tailored Portfolio Solutions",
-        "description": "Portfolios built precisely around your goals, your risk appetite and your time horizon — curated through my network of institutional partners.",
-        "bullets": [
-          "Individual allocation instead of a standard solution",
-          "Access to institutional partners and asset managers",
-          "Ongoing review and adjustment",
-          "Full transparency on cost and structure"
-        ],
-        "body": "Not an off-the-shelf product — a structure that fits your life."
-      },
-      {
-        "slug": "forex-trading",
-        "title": "Algorithmic Forex Trading",
-        "description": "Rules-based, fully automated trading systems in the currency markets — designed to remove emotion from the decision.",
-        "bullets": [
-          "Fully automated, rules-based strategies",
-          "Trading around the clock across global currency markets",
-          "Defined risk management per position",
-          "Ongoing reporting on performance and risk"
-        ],
-        "body": "The strategy trades by clear rules — independent of emotion and the mood of the day."
-      },
-      {
-        "slug": "copy-trading",
-        "title": "Copy Trading",
-        "description": "Direct participation in the strategies of experienced traders — automatically replicated, without having to trade actively yourself.",
-        "bullets": [
-          "Automatic replication of vetted trading strategies",
-          "Selection based on risk profile and track record",
-          "Full control over capital deployed and stop limits",
-          "No trading experience of your own required"
-        ],
-        "body": "You benefit from the experience of others, without having to be active in the market yourself every day."
-      },
-      {
-        "slug": "private-equity",
-        "title": "Private Equity",
-        "description": "Access to selected participations away from the public markets — from start-ups to established, growing companies.",
-        "bullets": [
-          "Closed-end participations and co-investments",
-          "Access to start-ups and pre-IPO rounds",
-          "Careful due diligence ahead of every recommendation",
-          "A long-term horizon with a clear exit perspective"
-        ],
-        "body": "Access to opportunities usually reserved for institutional investors — carefully vetted before they are recommended."
-      },
-      {
-        "slug": "real-estate",
-        "title": "Real Estate",
-        "description": "Investment properties at home and abroad — from property selection to financing, from one hand.",
-        "bullets": [
-          "Property selection based on location, yield and substance",
-          "Structured financing concepts",
-          "Domestic and international locations",
-          "Ongoing management on request"
-        ],
-        "body": "From the first analysis to financing — real estate investment from one hand."
-      },
-      {
-        "slug": "commodities",
-        "title": "Precious Metals & Commodities",
-        "description": "Physical precious metals, rare earths and other commodities as a foundation of tangible value in the portfolio.",
-        "bullets": [
-          "Physical gold, silver and other precious metals",
-          "Access to rare earths and strategic commodities",
-          "Secure storage and delivery options",
-          "Diversification away from conventional capital markets"
-        ],
-        "body": "Tangible assets as an anchor in the portfolio — independent of interest rate and equity cycles."
-      }
-    ]
-  },
   "about": {
     "kicker": "About",
     "title": "Advice with principles.",
@@ -269,8 +186,14 @@
         "title": "Sir John Templeton — A Portrait",
         "description": "On the pioneer of global investing and the humility that precedes great returns.",
         "links": [
-          { "label": "English", "file": "/memos/sir-john-templeton-en.pdf" },
-          { "label": "Deutsch", "file": "/memos/sir-john-templeton-de.pdf" }
+          {
+            "label": "English",
+            "file": "/memos/sir-john-templeton-en.pdf"
+          },
+          {
+            "label": "Deutsch",
+            "file": "/memos/sir-john-templeton-de.pdf"
+          }
         ]
       },
       {
@@ -278,7 +201,10 @@
         "title": "“You gotta hit the right ball” — Hyundai",
         "description": "Why timing and selection decide the success of a position.",
         "links": [
-          { "label": "Deutsch", "file": "/memos/hyundai-right-ball.pdf" }
+          {
+            "label": "Deutsch",
+            "file": "/memos/hyundai-right-ball.pdf"
+          }
         ]
       },
       {
@@ -286,8 +212,14 @@
         "title": "First Mover",
         "description": "On the advantage of those who act first — and its price.",
         "links": [
-          { "label": "English", "file": "/memos/first-mover-en.pdf" },
-          { "label": "Deutsch", "file": "/memos/first-mover-de.pdf" }
+          {
+            "label": "English",
+            "file": "/memos/first-mover-en.pdf"
+          },
+          {
+            "label": "Deutsch",
+            "file": "/memos/first-mover-de.pdf"
+          }
         ]
       },
       {
@@ -295,8 +227,14 @@
         "title": "Saudi Arabia and Renewable Energy",
         "description": "A look at the transformation of an oil nation — and what investors can learn from it.",
         "links": [
-          { "label": "English", "file": "/memos/renewable-energy-en.pdf" },
-          { "label": "Deutsch", "file": "/memos/erneuerbare-energien-de.pdf" }
+          {
+            "label": "English",
+            "file": "/memos/renewable-energy-en.pdf"
+          },
+          {
+            "label": "Deutsch",
+            "file": "/memos/erneuerbare-energien-de.pdf"
+          }
         ]
       }
     ]

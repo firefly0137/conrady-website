@@ -7,7 +7,7 @@ import Reveal from '@/components/ui/Reveal';
 type Item = { slug: string; title: string; description: string; bullets: string[]; body: string };
 
 type Props = {
-  namespace: 'expertise' | 'network';
+  namespace: 'expertise';
   baseHref: string;
   slug: string;
   images: Record<string, string>;

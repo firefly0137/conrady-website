@@ -20,7 +20,6 @@ export default async function HomePage({ params }: Props) {
       <Hero />
       <Promise_ />
       <CategoryTeaser namespace="expertise" baseHref="/kerngebiete" id="expertise" tint="cream" />
-      <CategoryTeaser namespace="network" baseHref="/netzwerk" id="network" tint="paper" />
       <AboutTeaser />
       <Testimonials />
       <MemosTeaser />

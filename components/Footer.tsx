@@ -8,7 +8,6 @@ export default function Footer() {
 
   const nav = [
     { key: 'expertise', href: '/kerngebiete' },
-    { key: 'network', href: '/netzwerk' },
     { key: 'about', href: '/ueber-mich' },
     { key: 'testimonials', href: '/stimmen' },
     { key: 'memos', href: '/memos' },

@@ -11,19 +11,9 @@ const EXPERTISE_SLUGS = [
   'vermoegensaufbau',
 ];
 
-const NETWORK_SLUGS = [
-  'portfolio-solutions',
-  'forex-trading',
-  'copy-trading',
-  'private-equity',
-  'real-estate',
-  'commodities',
-];
-
 const STATIC_PATHS = [
   '',
   '/kerngebiete',
-  '/netzwerk',
   '/ueber-mich',
   '/stimmen',
   '/memos',
@@ -35,7 +25,6 @@ const STATIC_PATHS = [
 const PATHS = [
   ...STATIC_PATHS,
   ...EXPERTISE_SLUGS.map((slug) => `/kerngebiete/${slug}`),
-  ...NETWORK_SLUGS.map((slug) => `/netzwerk/${slug}`),
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

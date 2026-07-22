@@ -5,7 +5,6 @@
   },
   "nav": {
     "expertise": "Kerngebiete",
-    "network": "Netzwerk",
     "about": "Über mich",
     "testimonials": "Stimmen",
     "memos": "Memos",
@@ -111,88 +110,6 @@
       }
     ]
   },
-  "network": {
-    "kicker": "Netzwerk",
-    "title": "Zugang zu meinem Investment-Netzwerk.",
-    "intro": "Über mein Netzwerk aus institutionellen Partnern, Vermögensverwaltern und spezialisierten Anbietern öffne ich Zugänge, die im klassischen Bankgeschäft selten zu finden sind — von maßgeschneiderten Portfolios bis zu realen Werten.",
-    "viewAllLabel": "Alle Netzwerk-Themen entdecken",
-    "backLabel": "Zurück zum Netzwerk",
-    "bulletsTitle": "Im Überblick",
-    "items": [
-      {
-        "slug": "portfolio-solutions",
-        "title": "Individuell maßgeschneiderte Portfoliolösungen",
-        "description": "Portfolios, die exakt auf Ihre Ziele, Ihren Risikoappetit und Ihren Zeithorizont zugeschnitten sind — kuratiert über mein Netzwerk institutioneller Partner.",
-        "bullets": [
-          "Individuelle Allokation statt Standardlösung",
-          "Zugang zu institutionellen Partnern und Vermögensverwaltern",
-          "Laufende Überprüfung und Anpassung",
-          "Volle Transparenz über Kosten und Struktur"
-        ],
-        "body": "Kein Produkt von der Stange — sondern eine Struktur, die zu Ihrem Leben passt."
-      },
-      {
-        "slug": "forex-trading",
-        "title": "Algorithmischer Devisenhandel",
-        "description": "Regelbasierte, vollautomatisierte Handelssysteme am Devisenmarkt — entwickelt, um Emotionen aus der Entscheidung zu nehmen.",
-        "bullets": [
-          "Vollautomatisierte, regelbasierte Strategien",
-          "Handel rund um die Uhr an globalen Devisenmärkten",
-          "Definiertes Risikomanagement je Position",
-          "Laufendes Reporting über Performance und Risiko"
-        ],
-        "body": "Die Strategie handelt nach klaren Regeln — unabhängig von Emotionen und Tagesform."
-      },
-      {
-        "slug": "copy-trading",
-        "title": "Copy Trading",
-        "description": "Direkte Teilhabe an den Strategien erfahrener Trader — automatisiert repliziert, ohne selbst aktiv handeln zu müssen.",
-        "bullets": [
-          "Automatische Replikation geprüfter Handelsstrategien",
-          "Auswahl nach Risikoprofil und Erfolgshistorie",
-          "Volle Kontrolle über Kapitaleinsatz und Stop-Grenzen",
-          "Keine eigene Handelserfahrung erforderlich"
-        ],
-        "body": "Sie profitieren von der Erfahrung anderer, ohne selbst täglich am Markt aktiv sein zu müssen."
-      },
-      {
-        "slug": "private-equity",
-        "title": "Private Equity",
-        "description": "Zugang zu ausgewählten Beteiligungen abseits der Börse — von Start-ups bis zu etablierten Unternehmen im Wachstum.",
-        "bullets": [
-          "Geschlossene Beteiligungen und Co-Investments",
-          "Zugang zu Start-ups und Pre-IPO-Runden",
-          "Sorgfältige Due Diligence vor jeder Empfehlung",
-          "Langfristiger Anlagehorizont mit klarer Exit-Perspektive"
-        ],
-        "body": "Zugang zu Chancen, die institutionellen Investoren vorbehalten sind — sorgfältig geprüft, bevor sie empfohlen werden."
-      },
-      {
-        "slug": "real-estate",
-        "title": "Immobilien",
-        "description": "Kapitalanlageimmobilien im In- und Ausland — von der Objektauswahl bis zur Finanzierung aus einer Hand.",
-        "bullets": [
-          "Objektauswahl nach Lage, Rendite und Substanz",
-          "Strukturierte Finanzierungskonzepte",
-          "Nationale und internationale Standorte",
-          "Laufende Verwaltung und Bewirtschaftung auf Wunsch"
-        ],
-        "body": "Von der ersten Analyse bis zur Finanzierung — Immobilieninvestments aus einer Hand."
-      },
-      {
-        "slug": "commodities",
-        "title": "Edelmetalle & Rohstoffe",
-        "description": "Physische Edelmetalle, Seltene Erden und weitere Rohstoffe als Fundament realer Werte im Portfolio.",
-        "bullets": [
-          "Physisches Gold, Silber und weitere Edelmetalle",
-          "Zugang zu Seltenen Erden und strategischen Rohstoffen",
-          "Sichere Verwahrung und Lieferoptionen",
-          "Diversifikation abseits klassischer Kapitalmärkte"
-        ],
-        "body": "Reale Werte als Anker im Portfolio — unabhängig von Zins- und Aktienzyklen."
-      }
-    ]
-  },
   "about": {
     "kicker": "Über mich",
     "title": "Beratung mit Haltung.",
@@ -269,8 +186,14 @@
         "title": "Sir John Templeton — Ein Porträt",
         "description": "Über den Pionier des globalen Investierens und die Demut, die großen Renditen vorausgeht.",
         "links": [
-          { "label": "Deutsch", "file": "/memos/sir-john-templeton-de.pdf" },
-          { "label": "English", "file": "/memos/sir-john-templeton-en.pdf" }
+          {
+            "label": "Deutsch",
+            "file": "/memos/sir-john-templeton-de.pdf"
+          },
+          {
+            "label": "English",
+            "file": "/memos/sir-john-templeton-en.pdf"
+          }
         ]
       },
       {
@@ -278,7 +201,10 @@
         "title": "„You gotta hit the right ball“ — Hyundai",
         "description": "Warum Timing und Auswahl über den Erfolg einer Position entscheiden.",
         "links": [
-          { "label": "Deutsch", "file": "/memos/hyundai-right-ball.pdf" }
+          {
+            "label": "Deutsch",
+            "file": "/memos/hyundai-right-ball.pdf"
+          }
         ]
       },
       {
@@ -286,8 +212,14 @@
         "title": "First Mover",
         "description": "Über den Vorsprung derer, die zuerst handeln — und seinen Preis.",
         "links": [
-          { "label": "Deutsch", "file": "/memos/first-mover-de.pdf" },
-          { "label": "English", "file": "/memos/first-mover-en.pdf" }
+          {
+            "label": "Deutsch",
+            "file": "/memos/first-mover-de.pdf"
+          },
+          {
+            "label": "English",
+            "file": "/memos/first-mover-en.pdf"
+          }
         ]
       },
       {
@@ -295,8 +227,14 @@
         "title": "Saudi-Arabien und Erneuerbare Energien",
         "description": "Ein Blick auf den Umbau einer Ölnation — und was Anleger daraus lernen können.",
         "links": [
-          { "label": "Deutsch", "file": "/memos/erneuerbare-energien-de.pdf" },
-          { "label": "English", "file": "/memos/renewable-energy-en.pdf" }
+          {
+            "label": "Deutsch",
+            "file": "/memos/erneuerbare-energien-de.pdf"
+          },
+          {
+            "label": "English",
+            "file": "/memos/renewable-energy-en.pdf"
+          }
         ]
       }
     ]

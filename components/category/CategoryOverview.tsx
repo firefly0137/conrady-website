@@ -7,7 +7,7 @@ import Kicker from '@/components/ui/Kicker';
 type Item = { slug: string; title: string; description: string };
 
 type Props = {
-  namespace: 'expertise' | 'network';
+  namespace: 'expertise';
   baseHref: string;
   images: Record<string, string>;
 };
